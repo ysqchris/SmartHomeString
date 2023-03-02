@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KotiHome xxxxxx </string>
+    <string name="app_name">KotiHome xxxxxx 京东方几点几分</string>
 
 
     <string name="permission_get_accounts_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_GET_ACCOUNTS</string>
